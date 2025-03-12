@@ -206,7 +206,6 @@ dotnet_naming_symbols.parameters.applicable_accessibilities                     
 dotnet_naming_symbols.parameters.applicable_kinds                                 = parameter
 # interface_types - Defines interfaces
 dotnet_naming_symbols.interface_types.applicable_accessibilities                  = *
-dotnet_naming_symbols.interface_types.applicable_kinds                            = interface
 
 # Naming Styles
 
