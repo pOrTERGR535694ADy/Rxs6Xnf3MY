@@ -4,7 +4,6 @@ checks:
     config:
       threshold: 7
   method-complexity:
-    config:
       threshold: 10
   method-count:
     config:
