@@ -236,7 +236,6 @@ void loop()
       Serial.println("Attendance Granted For Card2");
 
       b = true;
-
     }
 
     if(t == tag3)
